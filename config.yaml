@@ -13,3 +13,4 @@ type_checking: #remove commit for choose type and commit any types
   find_warnings #- поиск ошибок (выделены категории)
   #identify #- определения типа отходов в кузове
 
+
