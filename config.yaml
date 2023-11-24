@@ -1,0 +1,15 @@
+path_dataset: ./dataset
+path_models: ./models
+path_logs: ./logs
+path_reports: ./reports
+
+types:
+  brick: "Кирпич"
+  soil: "Грунт"
+  concrete: "Бетон"
+  wood: "Дерево"
+  
+type_checking: #remove commit for choose type and commit any types
+  find_warnings #- поиск ошибок (выделены категории)
+  #identify #- определения типа отходов в кузове
+
